@@ -29,7 +29,7 @@ const UseReducer = () => {
           <span></span>
           INCR
         </div>
-        <div class="button2" onClick={() => dispatch({ type: "DECR" })}>
+        <div className="button2" onClick={() => dispatch({ type: "DECR" })}>
           <span></span>
           <span></span>
           <span></span>
