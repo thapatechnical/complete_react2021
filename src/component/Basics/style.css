@@ -24,7 +24,7 @@ html {
   color: #aaa;
 }
 
-.main-card--cointainer {
+.main-card--container {
   display: grid;
   grid-template-columns: repeat(3, minmax(300px, 500px));
   grid-gap: 50px;
